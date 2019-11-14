@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: #ffcccc;
+}
+
+.menu {
+  margin-top:4vh;
+  margin-left:8vh;
+}
+
+.menu li {
+  float: left;
+  padding-right: 30px;
+  font-size: 1.5em;
+  color: #000066;
+  list-style-type: none;
+}
+
+.menu li a {
+  color: #0b41e3;
+  text-decoration: none;
+}
+
+#title {
+  margin-top: 5vh;
+  margin-bottom:2vh;
+  color: #000066;
+}
+
+h1, p {
+  text-align: center;
+}
+
+p {
+  font-size: 1.2em;
+}
